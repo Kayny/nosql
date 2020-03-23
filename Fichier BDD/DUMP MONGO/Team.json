@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5e678250c6af3f1bc42bbe3e"},"nom":"Mazzour","prenom":"Rim","image":"team/woman.png","description":"Mise en place du backend de StreetNews","poste":"Développeur"}
+{"_id":{"$oid":"5e678250c6af3f1bc42bbe3f"},"nom":"Villiers","prenom":"Pierre","image":"team/man.png","description":"Mise en place du frontend de StreetNews","poste":"Développeur Web"}
+{"_id":{"$oid":"5e678250c6af3f1bc42bbe40"},"nom":"Vallart","prenom":"Corentin","image":"team/man.png","description":"Développeur frontend de StreetNews","poste":"Développeur Web"}
+{"_id":{"$oid":"5e678250c6af3f1bc42bbe41"},"nom":"Montigaud","prenom":"Alexandre","image":"team/man.png","description":"Chef de projet de StreetNews","poste":"Chef de projet"}
+{"_id":{"$oid":"5e678250c6af3f1bc42bbe42"},"nom":"Dolbert","prenom":"Christopher","image":"team/man.png","description":"Développeur backend de StreetNews","poste":"Développeur Backend"}
