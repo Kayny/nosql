@@ -1,19 +1,15 @@
 # nosql
-Bonjour,
+Groupe 2 - B2B
+Pierre VILLIERS
+Corentin VALLART
+Christopher DOLBERT
+Alexandre MONTIGAUD
+Rim MAZZOUR
 
-Comme convenu, vous trouverez en pièce-jointe notre livrable.
-L'archive contient : 
-Document du livrable
-Fichiers BDD
-Fichiers du site
-Groupe : 
-n°2
-
-Membres : 
-Montigaud Alexandre, Villiers Pierre, Vallart Corentin, Dolbert Christopher, et Rim Mazzour.
-
-Est-ce-que vous pouvez nous donner notre note ?
-
-Bien à vous,
-
-Le groupe n°2
+Récapitulation de ce dossier :
+ - "Document du livrable"
+   Il contient notre document sur le planning de projet (à lire).
+ - "Fichier BDD"
+   Il contient nos requêtes pour remplir la bdd.
+ - "Fichier du site"
+   Il contient nos fichiers pour le site. 
